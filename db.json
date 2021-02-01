@@ -1,0 +1,51 @@
+{
+  "contracts": [
+    {
+      "id": 1,
+      "title": "Contrat Assurance Vie n°1",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "title": "Contrat Assurance Vie n°2",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "title": "Contrat Assurance Auto",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "title": "Contrat Assurance Habitation",
+      "price": 100
+    }
+  ],
+  "contracts_subscribe": [
+    {
+      "id": 1,
+      "id_user": 1,
+      "id_contract": 1
+    },
+    {
+      "id": 2,
+      "id_user": 1,
+      "id_contract": 3
+    },
+    {
+      "id": 3,
+      "id_user": 2,
+      "id_contract": 1
+    },
+    {
+      "id": 4,
+      "id_user": 2,
+      "id_contract": 5
+    },
+    {
+      "id": 5,
+      "id_user": 3,
+      "id_contract": 4
+    }
+  ]
+}
